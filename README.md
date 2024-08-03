@@ -10,8 +10,8 @@
        - adafruit_mpr121.mpy
        - adafruit_pixelbyf.mpy
        - adafruit_waveform
-6. Download 'Audio Files' and move them into your CIRCUITPY drive.
-7. Copy the contents of'code.py' file onto the 'code.py' file on the CIRCUITPY.
+6. Download all .wav files from this repository and move them into your CIRCUITPY drive.
+8. Copy the contents of'code.py' file onto the 'code.py' file on the CIRCUITPY.
 
  # Troubleshooting_Code
 
